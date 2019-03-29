@@ -1,0 +1,9 @@
+{
+  "_inherit": true,
+  "_variables" : {
+  },
+  "customStyles": [{
+  "cssRef": "theme.css",
+  "classRef": "GotHam_theme"
+}]
+}
